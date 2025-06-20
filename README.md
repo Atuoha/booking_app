@@ -1,4 +1,3 @@
-Got it! Here’s a polished `README.md` file with proper Markdown syntax, ready to use in your repo:
 
 ````markdown
 # Salon Booking App MVP

@@ -14,6 +14,9 @@ A simple Flutter mobile app that lets customers book salon services by selecting
 
 ---
 
+#### APK, SCREENSHOTS AND VIDEO RECORDING:
+- [Use this link to access these resources on Google Drive](https://drive.google.com/drive/folders/19njLJwpz71Utg5gMjpEPoNxaa7hn3qpc?usp=sharing)
+
 ## Getting Started
 
 ### Prerequisites
@@ -21,6 +24,7 @@ A simple Flutter mobile app that lets customers book salon services by selecting
 - Flutter SDK installed  
 - Android Studio (for Android emulator) or Xcode (for iOS simulator) installed  
 - Emulator/simulator or physical device set up  
+
 
 ### Installation
 

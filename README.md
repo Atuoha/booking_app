@@ -72,7 +72,8 @@ The app will launch on the selected device.
 ---
 
 ## Project Structure
-* `main.dart` — app entry point and UI
+* `main.dart` — app entry point
+* `BookingScreen` — booking screen
 * `BookingController` — business logic, local storage
 * `BookingList` — widget to display bookings with delete option
 
